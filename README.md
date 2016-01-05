@@ -1,6 +1,6 @@
-# Generate a custom Big Fish theme using Grunt's Project Scaffolding
+# Generate a custom Wordpress theme using Grunt's Project Scaffolding
 
-> Create an Big Fish based WordPress theme with [grunt-init][]. It'll ask you for some basic info and the template files you'd like to include or exclude from the directory. The theme will use Foundation as the framework
+> Create a Wordpress theme with [grunt-init][]. It'll ask you for some basic info and the template files you'd like to include or exclude from the directory. The theme will use Foundation as the framework
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -22,7 +22,7 @@ Once `grunt-init` is installed, it places scaffolding templates in your `~/.grun
 
 
 ```
-git@github.com:bigfishdesign/grunt-init.git ~/.grunt-init/wordpress_theme
+git@github.com:alex-windett/wordpress_theme.git/grunt-init.git ~/.grunt-init/wordpress_theme
 ```
 
 ## Usage
